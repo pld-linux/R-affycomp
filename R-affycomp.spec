@@ -2,13 +2,13 @@
 
 Summary:	Graphics Toolbox for Assessment of Affymetrix Expression Measures
 Name:		R-%{packname}
-Version:	1.34.0
+Version:	1.38.0
 Release:	1
 License:	LGPL v2+
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	2dfa3507781f8db9656253aafb3f4cf1
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	7b30327b14a45597d497bba9deb87bdf
+URL:		http://bioconductor.org/packages/release/bioc/html/affycomp.html
 BuildRequires:	R
 BuildRequires:	R-Biobase
 BuildRequires:	texlive-latex
